@@ -1,0 +1,50 @@
+<view class="main">
+   <!-- 搜索框 -->
+       <!-- <view class="search">
+           <view class="search-list">
+                 <image src="../../image/fangdajing.png" class="search-img"></image>
+                 <input placeholder="搜索" class="search-input" placeholder-class="string"/>
+           </view>
+      </view>  -->
+
+    <swiper indicator-dots="true" autoplay="true" interval="{{interval}}" duration="{{duration}}" circular="true">
+        <block wx:for="{{imgUrls}}" wx:key="{{index}}">
+            <swiper-item>
+                <image src="{{item.path}}" class="slide-image" width="100%"/>
+            </swiper-item>
+        </block>
+    </swiper>
+    <view class="selected">
+        <view class="select-title"><text>精选主题</text></view>
+        <view class="select-top">
+            <view class="select-top-small"  style="width:45%;margin-left:2.5%; margin-right:2.5%;">
+                <navigator url="list/list?cateid={{category[0].id}}">
+                    <image src="{{category[0].advimg}}"></image>
+                </navigator>
+            </view>
+            <view class="select-top-small"  style="width:45%;margin-left:2.5%; margin-right:2.5%;">
+                <navigator url="list/list?cateid={{category[1].id}}">
+                    <image src="{{category[1].advimg}}"></image>
+                </navigator>
+            </view>
+        </view>
+        <view class="select-bottom"  style="width:95%; margin-top:10rpx;margin-left:2.5%; margin-right:2.5%;">
+            <navigator url="list/list?cateid={{category[2].id}}">
+                <image src="{{category[2].advimg}}"></image>
+            </navigator>
+        </view>
+    </view>
+    <view class="newest">
+        <view class="newest-title"><text>最近新品</text></view>
+        <view class="newest-box">
+            <view class="newest-list" wx:for="{{newgoods}}" wx:key="{{index}}">
+                <navigator url="details/details?id={{item.id}}">
+                    <image src="{{item.thumb_url}}"></image>
+                    <view class="newest-text"><text>{{item.name}}</text></view>
+                    <view class="newest-text"><text>¥{{item.price}}</text></view>
+                </navigator>
+            </view>
+            
+        </view>
+    </view>
+</view>

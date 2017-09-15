@@ -1,0 +1,38 @@
+<view >
+    <scroll-view scroll-x="true" class="tab-h" scroll-left="{{scrollLeft}}">
+        <view class="tab-item {{currentTab==0?'active':''}}"  data-current="0" bindtap="swichNav">全部</view>
+        <view class="tab-item {{currentTab==1?'active':''}}" data-current="1" bindtap="swichNav">未发货</view>
+        <view class="tab-item {{currentTab==2?'active':''}}" data-current="2" bindtap="swichNav">已发货</view>
+        <view class="tab-item {{currentTab==3?'active':''}}" data-current="3" bindtap="swichNav">已完成</view>
+    </scroll-view>
+    <swiper class="tab-content" current="{{currentTab}}" duration="300" bindchange="switchTab"
+     style="height:{{winHeight}}rpx">
+        <swiper-item wx:for="{{[0,1,2,3,4,5,6]}}">
+            <scroll-view scroll-y="true" class="scoll-h" >
+                <!-- <block wx:for="{{[1,2,3,4,5,6,7,8,9,10,11]}}" wx:key="*this"> -->
+
+
+
+                    <view class="item-ans" wx:for="{{expertList}}" wx:key="">
+                        <view class="dingdan">订单号：{{item.ordersn}}</view>
+                        <view class="itemer" wx:for="{{item.items}}" wx:key="">
+                          <view class="avatar">
+                              <image class="img" src="{{item.thumb}}"></image>
+                          </view>
+                          <view class="expertInfo">
+                              <view class="name">{{item.name}}</view>
+                              <view class="tag">{{item.cate}}</view>
+                          </view>
+                          <text class='answer'>×{{item.total}}</text>
+                          <text class='listen'>¥{{item.price}}</text>
+                          
+                        </view>
+
+
+                        <view class="size">共<text>{{item.totalAmount}}</text>个商品，价格¥<text>{{item.price}}</text></view>
+                    </view>
+                <!-- </block> -->
+            </scroll-view>
+        </swiper-item>
+    </swiper>
+</view>

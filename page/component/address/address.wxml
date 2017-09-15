@@ -1,0 +1,10 @@
+<view class="main">
+    <view class="form-box">
+        <form bindsubmit="formSubmit">
+            <input value="{{address.realname}}" placeholder="姓名" bindinput="bindName"/>
+            <input type="number" value="{{address.mobile}}" placeholder="电话号码" bindinput="bindPhone" />
+            <input value="{{address.address}}" placeholder="详细地址" bindinput="bindDetail"/>
+            <button form-type="submit">保存</button>
+        </form>
+    </view>
+</view>

@@ -1,0 +1,67 @@
+<view >
+    <scroll-view scroll-x="true" class="tab-h" scroll-left="{{scrollLeft}}">
+
+        <view  wx:for="{{category}}" wx:key="{{index}}" class="tab-item {{currentTab==index?'active':''}}"  data-current="{{index}}" data-id="{{item.id}}" bindtap="swichNav">{{item.name}}</view>
+
+    </scroll-view>
+    <swiper class="tab-content" current="{{currentTab}}" duration="300" bindchange="switchTab" 
+     style="height:{{winHeight}}rpx">
+        <swiper-item wx:for="{{[0,1,2,3,4,5,6]}}">
+            <scroll-view scroll-y="true" class="scoll-h" >
+                <!-- <block wx:for="{{[1,2,3,4,5,6,7,8,9,10,11]}}" wx:key="*this"> -->
+
+
+                  <view wx:for="{{expertList}}" wx:key="{{index}}" class="laidi">
+                    
+                    <view class="item-ans">
+                        <navigator url="../details/details?id={{item.id}}">
+                        <view class="avatar">
+                            <image class="img" src="{{item.thumb_url}}"></image>
+                        </view>
+                        </navigator>
+                        <navigator url="../details/details?id={{item.id}}">
+                        <view class="expertInfo">
+                            <view class="name">{{item.name}}</view>
+                            <view class="tag">库存：{{item.total}}</view>
+                            <view class="size">¥{{item.price}}</view>
+                        </view>  
+                        </navigator>
+                        <view class="drawer_screen" bindtap="setModalStatus" data-status="0" wx:if="{{showModalStatus[index]}}"></view>
+                        <view animation="{{animationData}}" class="drawer_attr_box" wx:if="{{showModalStatus[index]}}">
+                        <view class="close_icon" bindtap="setModalStatus" data-status="0">×</view>
+                          <view class="drawer_attr_content">
+                            <view class="text_center">
+                            <image class="drawer_image" src="{{item.thumb_url}}"></image>
+
+                            <view style="width:50%; float:left; margin-top:25rpx;">
+                              <view class="drawer_desc">{{item.name}}</view>
+                              <view class="drawer_desc">库存：{{item.total}}</view>
+                              <view class="drawer_descs">¥{{item.price}}</view>
+                            </view>
+
+                            </view>
+                          
+                            <view class="good-num">
+                                <text class="cart-count-down ptton" bindtap="minusCount">-</text>
+                                <text class="goods-operation-num ptton">数量: {{num}}</text>
+                                <text class="goods-operation-add ptton" bindtap="addCount">+</text>
+                                <!-- <image src="/image/cart1.png"  class="goods-cart-img" bindtap="addToCart"></image> -->
+                            </view>
+                            <view class="good-operation">
+                              <text bindtap="addcart" data-id="{{item.id}}" >加入购物车</text> 
+                              <!-- <navigator url="../orders/orders">  -->
+                              <text bindtap="redirect_my_jianzhi" data-index="{{index}}" >立刻购买</text>
+                              <!-- </navigator> -->
+                            </view>
+                          </view>
+                        </view>
+                      <view class="btn open_btn" bindtap="setModalStatus" data-status="1" data-index="{{index}}" >立刻购买</view>
+
+                    </view>
+                    
+                  </view>
+                <!-- </block> -->
+            </scroll-view>
+        </swiper-item>
+    </swiper>
+</view>
