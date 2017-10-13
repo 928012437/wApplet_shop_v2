@@ -23,6 +23,9 @@ Page({
       goodsid: option.id
     })
   },
+  cityNameClick:function(){
+    wx.navigateBack();
+  },
   onShow: function () {
     this.getgooddetail(this.data.goodsid)
   },

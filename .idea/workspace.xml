@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc2b71aa-67af-4084-bdcd-5a755c4d715f" name="默认的" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/component/category/category.wxml" afterPath="$PROJECT_DIR$/page/component/category/category.wxml" />
+    </list>
+    <ignored path="stest9-4-1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="stest9-4-1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/etc/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/component/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="site.php" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/site.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.724138">
+              <caret line="105" column="26" selection-start-line="105" selection-start-column="21" selection-end-line="105" selection-end-column="26" />
+              <folding>
+                <marker date="1506063358773" expanded="true" signature="825:893" placeholder="SELECT * FRO..${tablename($this-&gt;activitytalbe)}..." />
+                <marker date="1506063358773" expanded="true" signature="4246:4404" placeholder="SELECT * FRO..${tablename($this-&gt;activitytalbe)}..." />
+                <marker date="1506063358773" expanded="true" signature="4455:4547" placeholder="SELECT COUNT..${tablename($this-&gt;activitytalbe)}..." />
+                <marker date="1506063358773" expanded="true" signature="6284:6377" placeholder="SELECT * FRO..${tablename($this-&gt;activityday)}..." />
+                <marker date="1506063358773" expanded="true" signature="6498:6564" placeholder="SELECT * FRO..${tablename($this-&gt;activityday)}..." />
+                <marker date="1506063358773" expanded="true" signature="8409:8472" placeholder="SELECT * FRO..${tablename($this-&gt;note)}..." />
+                <marker date="1506063358773" expanded="true" signature="8593:8652" placeholder="SELECT * FRO..${tablename($this-&gt;note)}..." />
+                <marker date="1506063358773" expanded="true" signature="10343:10411" placeholder="SELECT * FRO..${tablename($this-&gt;activitytalbe)}..." />
+                <marker date="1506063358773" expanded="true" signature="10579:10725" placeholder="SELECT * FRO..${tablename($this-&gt;activityuser)}..." />
+                <marker date="1506063358773" expanded="true" signature="10776:10856" placeholder="SELECT COUNT..${tablename($this-&gt;activityuser)}..." />
+                <marker date="1506063358773" expanded="true" signature="11479:11552" placeholder="SELECT * FRO..${tablename($this-&gt;activitymail)}..." />
+                <marker date="1506063358773" expanded="true" signature="11673:11740" placeholder="SELECT * FRO..${tablename($this-&gt;activitymail)}..." />
+                <marker date="1506063358773" expanded="true" signature="13051:13119" placeholder="SELECT * FRO..${tablename($this-&gt;activitytalbe)}..." />
+                <marker date="1506063358773" expanded="true" signature="13859:13958" placeholder="SELECT * FRO..${tablename($this-&gt;activityuser)}..." />
+                <marker date="1506063358773" expanded="true" signature="14835:14907" placeholder="SELECT * FRO..${tablename($this-&gt;activityguest)}..." />
+                <marker date="1506063358773" expanded="true" signature="15029:15097" placeholder="SELECT * FRO..${tablename($this-&gt;activityguest)}..." />
+                <marker date="1506063358773" expanded="true" signature="17122:17190" placeholder="SELECT * FRO..${tablename($this-&gt;activitytalbe)}..." />
+                <marker date="1506063358773" expanded="true" signature="17756:17839" placeholder="SELECT * FRO..${tablename($this-&gt;activitytalbe)}..." />
+                <marker date="1506063358773" expanded="true" signature="18228:18295" placeholder="SELECT * FRO..${tablename($this-&gt;table_reply)}..." />
+                <marker date="1506063358773" expanded="true" signature="19025:19113" placeholder="SELECT * FRO..${tablename($this-&gt;activityuser)}..." />
+                <marker date="1506063358773" expanded="true" signature="19408:19483" placeholder="SELECT COUNT..${tablename($this-&gt;activityuser)}..." />
+                <marker date="1506063358773" expanded="true" signature="19796:19866" placeholder="SELECT * FRO..${tablename($this-&gt;activityguest)}..." />
+                <marker date="1506063358773" expanded="true" signature="19993:20074" placeholder="SELECT * FRO..${tablename($this-&gt;activityguest)}..." />
+                <marker date="1506063358773" expanded="true" signature="20200:20281" placeholder="SELECT * FRO..${tablename($this-&gt;activityguest)}..." />
+                <marker date="1506063358773" expanded="true" signature="20405:20494" placeholder="SELECT * FRO..${tablename($this-&gt;activityday)}..." />
+                <marker date="1506063358773" expanded="true" signature="20613:20674" placeholder="SELECT * FRO..${tablename($this-&gt;note)}..." />
+                <marker date="1506063358773" expanded="true" signature="21155:21249" placeholder="SELECT * FRO..${tablename($this-&gt;activitytalbe)}..." />
+                <marker date="1506063358773" expanded="true" signature="23358:23446" placeholder="SELECT * FRO..${tablename($this-&gt;activityuser)}..." />
+                <marker date="1506063358773" expanded="true" signature="23780:23848" placeholder="SELECT * FRO..${tablename($this-&gt;activitytalbe)}..." />
+                <marker date="1506063358773" expanded="true" signature="25252:25325" placeholder="SELECT * FRO..${tablename($this-&gt;activitymail)}..." />
+                <marker date="1506063358773" expanded="true" signature="25917:25985" placeholder="SELECT * FRO..${tablename($this-&gt;activitytalbe)}..." />
+                <marker date="1506063358773" expanded="true" signature="26068:26143" placeholder="SELECT COUNT..${tablename($this-&gt;activityuser)}..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity 2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/activity 2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.732142">
+              <caret line="267" column="12" selection-start-line="267" selection-start-column="12" selection-end-line="267" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity.html" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/activity.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5185602">
+              <caret line="455" column="28" selection-start-line="455" selection-start-column="28" selection-end-line="455" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/getcategory.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/article.ctrl.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/getarticle.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/getcatedetail.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/getdetail.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/activity.html" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/site.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/site.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/activity 2.html" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/activity.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="添加" />
+    <OptionsSetting value="true" id="移除" />
+    <OptionsSetting value="true" id="签出" />
+    <OptionsSetting value="true" id="更新" />
+    <OptionsSetting value="true" id="状态" />
+    <OptionsSetting value="true" id="编辑" />
+    <ConfirmationsSetting value="0" id="添加" />
+    <ConfirmationsSetting value="0" id="移除" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stest9-4-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stest9-4-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stest9-4-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stest9-4-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stest9-4-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stest9-4-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stest9-4-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stest9-4-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stest9-4-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="details" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stest9-4-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stest9-4-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="etc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="D:\nodejs\node.exe" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc2b71aa-67af-4084-bdcd-5a755c4d715f" name="默认的" comment="" />
+      <created>1505803117604</created>
+      <option name="number" value="Default" />
+      <updated>1505803117604</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15885417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/etc/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/component/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etc/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/component/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etc/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/component/details/details.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.785169">
+          <caret line="36" column="84" selection-start-line="36" selection-start-column="78" selection-end-line="36" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/component/details/details.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.022547914">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/component/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/site.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.724138">
+          <caret line="105" column="26" selection-start-line="105" selection-start-column="21" selection-end-line="105" selection-end-column="26" />
+          <folding>
+            <marker date="1506063358773" expanded="true" signature="825:893" placeholder="SELECT * FRO..${tablename($this-&gt;activitytalbe)}..." />
+            <marker date="1506063358773" expanded="true" signature="4246:4404" placeholder="SELECT * FRO..${tablename($this-&gt;activitytalbe)}..." />
+            <marker date="1506063358773" expanded="true" signature="4455:4547" placeholder="SELECT COUNT..${tablename($this-&gt;activitytalbe)}..." />
+            <marker date="1506063358773" expanded="true" signature="6284:6377" placeholder="SELECT * FRO..${tablename($this-&gt;activityday)}..." />
+            <marker date="1506063358773" expanded="true" signature="6498:6564" placeholder="SELECT * FRO..${tablename($this-&gt;activityday)}..." />
+            <marker date="1506063358773" expanded="true" signature="8409:8472" placeholder="SELECT * FRO..${tablename($this-&gt;note)}..." />
+            <marker date="1506063358773" expanded="true" signature="8593:8652" placeholder="SELECT * FRO..${tablename($this-&gt;note)}..." />
+            <marker date="1506063358773" expanded="true" signature="10343:10411" placeholder="SELECT * FRO..${tablename($this-&gt;activitytalbe)}..." />
+            <marker date="1506063358773" expanded="true" signature="10579:10725" placeholder="SELECT * FRO..${tablename($this-&gt;activityuser)}..." />
+            <marker date="1506063358773" expanded="true" signature="10776:10856" placeholder="SELECT COUNT..${tablename($this-&gt;activityuser)}..." />
+            <marker date="1506063358773" expanded="true" signature="11479:11552" placeholder="SELECT * FRO..${tablename($this-&gt;activitymail)}..." />
+            <marker date="1506063358773" expanded="true" signature="11673:11740" placeholder="SELECT * FRO..${tablename($this-&gt;activitymail)}..." />
+            <marker date="1506063358773" expanded="true" signature="13051:13119" placeholder="SELECT * FRO..${tablename($this-&gt;activitytalbe)}..." />
+            <marker date="1506063358773" expanded="true" signature="13859:13958" placeholder="SELECT * FRO..${tablename($this-&gt;activityuser)}..." />
+            <marker date="1506063358773" expanded="true" signature="14835:14907" placeholder="SELECT * FRO..${tablename($this-&gt;activityguest)}..." />
+            <marker date="1506063358773" expanded="true" signature="15029:15097" placeholder="SELECT * FRO..${tablename($this-&gt;activityguest)}..." />
+            <marker date="1506063358773" expanded="true" signature="17122:17190" placeholder="SELECT * FRO..${tablename($this-&gt;activitytalbe)}..." />
+            <marker date="1506063358773" expanded="true" signature="17756:17839" placeholder="SELECT * FRO..${tablename($this-&gt;activitytalbe)}..." />
+            <marker date="1506063358773" expanded="true" signature="18228:18295" placeholder="SELECT * FRO..${tablename($this-&gt;table_reply)}..." />
+            <marker date="1506063358773" expanded="true" signature="19025:19113" placeholder="SELECT * FRO..${tablename($this-&gt;activityuser)}..." />
+            <marker date="1506063358773" expanded="true" signature="19408:19483" placeholder="SELECT COUNT..${tablename($this-&gt;activityuser)}..." />
+            <marker date="1506063358773" expanded="true" signature="19796:19866" placeholder="SELECT * FRO..${tablename($this-&gt;activityguest)}..." />
+            <marker date="1506063358773" expanded="true" signature="19993:20074" placeholder="SELECT * FRO..${tablename($this-&gt;activityguest)}..." />
+            <marker date="1506063358773" expanded="true" signature="20200:20281" placeholder="SELECT * FRO..${tablename($this-&gt;activityguest)}..." />
+            <marker date="1506063358773" expanded="true" signature="20405:20494" placeholder="SELECT * FRO..${tablename($this-&gt;activityday)}..." />
+            <marker date="1506063358773" expanded="true" signature="20613:20674" placeholder="SELECT * FRO..${tablename($this-&gt;note)}..." />
+            <marker date="1506063358773" expanded="true" signature="21155:21249" placeholder="SELECT * FRO..${tablename($this-&gt;activitytalbe)}..." />
+            <marker date="1506063358773" expanded="true" signature="23358:23446" placeholder="SELECT * FRO..${tablename($this-&gt;activityuser)}..." />
+            <marker date="1506063358773" expanded="true" signature="23780:23848" placeholder="SELECT * FRO..${tablename($this-&gt;activitytalbe)}..." />
+            <marker date="1506063358773" expanded="true" signature="25252:25325" placeholder="SELECT * FRO..${tablename($this-&gt;activitymail)}..." />
+            <marker date="1506063358773" expanded="true" signature="25917:25985" placeholder="SELECT * FRO..${tablename($this-&gt;activitytalbe)}..." />
+            <marker date="1506063358773" expanded="true" signature="26068:26143" placeholder="SELECT COUNT..${tablename($this-&gt;activityuser)}..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/activity 2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.732142">
+          <caret line="267" column="12" selection-start-line="267" selection-start-column="12" selection-end-line="267" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/activity.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5185602">
+          <caret line="455" column="28" selection-start-line="455" selection-start-column="28" selection-end-line="455" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

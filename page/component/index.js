@@ -1,6 +1,13 @@
 import Config from '../../etc/config'
 
 Page({
+  onShareAppMessage: function () {
+    return {
+      title: '微狐小程序',
+      desc: '专业微信小程序定制开发团队',
+      path: 'page/component/index'
+    }
+  },
   data: {
     imgUrls: [],
     category: [],

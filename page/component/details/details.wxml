@@ -1,11 +1,16 @@
 <view class="main">
     <view class="goods-box">
+    <view class="header">
+    <view class="button" bindtap="cityNameClick">返回</view>
+      <view class="goods-title">{{goods.name}}</view>
+    </view>
     <swiper indicator-dots="{{indicatorDots}}"  autoplay="{{true}}" interval="{{interval}}" duration="{{duration}}">
         <block wx:for="{{goods.images}}" wx:key="">
         <swiper-item>
                 <image src="{{item.path}}" class="img"/>
         </swiper-item>
         </block>
+        
     </swiper>    
         <navigator open-type="switchTab" url="../cart/cart">
             <view class="carts-icon {{scaleCart?'on':''}}">
@@ -25,7 +30,6 @@
         </navigator>
         <image wx:if="{{show}}" src="/image/cart1.png" class="to-carts-icon"></image>
         <view class="goods-stock">库存：{{goods.total}}</view>
-        <view class="goods-title">{{goods.name}}</view>
         <view class="goods-price">￥ {{goods.price}}</view>
     </view>
     <view class="goods-tab-box">

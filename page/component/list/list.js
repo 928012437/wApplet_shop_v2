@@ -11,6 +11,9 @@ Page({
       cateid: options.cateid
     })
   },
+  cityNameClick: function () {
+    wx.navigateBack();
+  },
   onShow: function () {
     this.getcategory();
     this.getgoods()

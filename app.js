@@ -1,5 +1,4 @@
 import Config from 'etc/config'
-
 App({
   onLaunch: function () {
     this.getOpenid()
@@ -8,8 +7,7 @@ App({
   },
   onShow: function () { 
   },
-  onHide: function () {
-    
+  onHide: function () { 
   },
   getOpenid() {
     const that = this

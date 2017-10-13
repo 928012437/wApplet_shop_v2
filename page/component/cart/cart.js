@@ -2,6 +2,13 @@
 const App = getApp()
 
 Page({
+  onShareAppMessage: function () {
+    return {
+      title: '微狐小程序',
+      desc: '专业微信小程序定制开发团队',
+      path: 'page/component/index'
+    }
+  },
   data: {
     carts:[],               // 购物车列表
     hasList:false,          // 列表是否有数据
@@ -118,7 +125,7 @@ var selgoods_num=0;
     var that = this;
     var dbselected = selectAllStatus ? 0 : 1;
     wx.request({
-      url: Config.basePath + 'updnumcart&openid=' + App.globalData.openid + '&type=1&selected=' + dbselected,
+      url: Config.basePath + 'updnumcart&openid=' + App.globalData.openid + '&type=1&selected=' + !dbselected,
       success: function (data) {
         if (data.data.meta.code == 0) {
           for (let i = 0; i < carts.length; i++) {

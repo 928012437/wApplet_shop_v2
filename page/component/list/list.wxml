@@ -1,8 +1,8 @@
 <view class="main">
+<view class="button" bindtap="cityNameClick">返回</view>
     <view class="banner">
         <image src="{{category[0].advimg}}"></image>
     </view>
-
     <view class="list-box">
         <view class="newest-list" wx:for="{{goods}}" wx:key="{{index}}" >
             <navigator url="../details/details?id={{item.id}}">

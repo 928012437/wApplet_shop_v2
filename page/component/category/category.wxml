@@ -5,9 +5,7 @@
 
     </scroll-view>
     <swiper class="tab-content" current="{{currentTab}}" duration="300" bindchange="switchTab" 
-     style="height:{{winHeight}}rpx">
-        <swiper-item wx:for="{{[0,1,2,3,4,5,6]}}">
-            <scroll-view scroll-y="true" class="scoll-h" >
+     style="height:{{winHeight}}rpx" nested="false">
                 <!-- <block wx:for="{{[1,2,3,4,5,6,7,8,9,10,11]}}" wx:key="*this"> -->
 
 
@@ -58,10 +56,7 @@
                       <view class="btn open_btn" bindtap="setModalStatus" data-status="1" data-index="{{index}}" >立刻购买</view>
 
                     </view>
-                    
                   </view>
                 <!-- </block> -->
-            </scroll-view>
-        </swiper-item>
     </swiper>
 </view>
